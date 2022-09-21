@@ -8,4 +8,4 @@ for _ in range(number):
     elif n > 88:
         print('Bye.')
     else:
-        print('GREAT!')
+        print('GREAT!!')
