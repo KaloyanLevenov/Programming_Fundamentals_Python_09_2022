@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+p{
+font-family: Helvetica;
+font-size: 23px
+
+}
+
+p.blueParagraph {
+
+color: blue
+}
+
+p.greenParagraph {
+
+color: green
+
+}
