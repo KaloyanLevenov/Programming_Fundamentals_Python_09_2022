@@ -4,7 +4,7 @@ In this repository there are solutions to tasks from the programming Fundamental
 Lecturer of course - [Mario Zahariev](https://github.com/zahariev-webbersof) 
 
 Completed courses:
-- Programming Basics With Python July 2022
+- [Programming Basics With Python July 2022](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/001_programming_basics_with_python_july_2022)
 
 
 
