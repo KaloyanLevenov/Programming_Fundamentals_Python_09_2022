@@ -28,7 +28,7 @@ Online judge system - https://judge.softuni.org/
 - [List Advanced - Lab](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/09_list_advanced_lab)
 - [List Advanced - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/10_list_advanced_exercise)
 - [Mid-Exam Preparation](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/11_mid_exam_preparation)
-- 
+
 ## Additional resources
 
 - [Course page - Programming Fundamentals with Python - september 2022](https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022)
