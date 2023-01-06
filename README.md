@@ -32,7 +32,16 @@ Online judge system - https://judge.softuni.org/
 - [List Advanced - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/10_list_advanced_exercise)
 - [Mid-Exam Preparation](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/11_mid_exam_preparation)
 - [Objects and classes - Lab](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/12_objects_and_classes_lab)
-- [Objects and classes - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/12_objects_and_classes_lab)
+- [Objects and classes - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/13_objects_and_classes_exercise)
+- [Dictionaries - Lab](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/14_dictionaries_lab)
+- [Dictionaries - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/15_dictionaries_exercise)
+- [Text processing - Lab](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/16_text_processing_lab)
+- [Text processing - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/17_text_processing_exercise)
+- [Regular expressions - Lab](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/18_regular_expressions_lab)
+- [Regular expressions - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/19_regular_expressions_exercise)
+- [Regular expressions - More exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/20_regular_expressions_more_exercises)
+- [Final Exam preparation](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/22_final_exam_preparation)
+- Python Fundamentals Certificate 
 ## Additional resources
 
 - [Course page - Programming Fundamentals with Python - september 2022](https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022)
