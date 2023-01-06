@@ -41,7 +41,8 @@ Online judge system - https://judge.softuni.org/
 - [Regular expressions - Exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/19_regular_expressions_exercise)
 - [Regular expressions - More exercise](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/20_regular_expressions_more_exercises)
 - [Final Exam preparation](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/22_final_exam_preparation)
-- Python Fundamentals Certificate 
+- [Python Fundamentals Certificate](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/23_python_fundamentals_certificate)
+
 ## Additional resources
 
 - [Course page - Programming Fundamentals with Python - september 2022](https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022)
